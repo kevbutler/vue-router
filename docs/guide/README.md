@@ -1,10 +1,9 @@
 # Getting Started
 
-::: tip Note
-We will be using [ES2015](https://github.com/lukehoban/es6features) in the code samples in the guide.
-
-Also, all examples will be using the full version of Vue to make on-the-fly template compilation possible. See more details [here](https://vuejs.org/v2/guide/installation.html#Runtime-Compiler-vs-Runtime-only).
-:::
+> **Note**
+> We will be using [ES2015](https://github.com/lukehoban/es6features) in the code samples in the guide.
+>
+> Also, all examples will be using the full version of Vue to make on-the-fly template compilation possible. See more details [here](https://vuejs.org/v2/guide/installation.html#Runtime-Compiler-vs-Runtime-only).
 
 <div class="vueschool"><a href="https://vueschool.io/courses/vue-router-for-everyone?friend=vuejs" target="_blank" rel="sponsored noopener" title="Learn how to build powerful Single Page Applications with the Vue Router on Vue School">Watch a free video course about Vue Router on Vue School</a></div>
 
