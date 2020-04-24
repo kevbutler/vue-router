@@ -1,7 +1,3 @@
----
-sidebarDepth: 0
----
-
 # Programmatic Navigation
 
 Aside from using `<router-link>` to create anchor tags for declarative navigation, we can do this programmatically using the router's instance methods.
